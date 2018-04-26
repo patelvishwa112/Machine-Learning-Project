@@ -1,0 +1,27 @@
+Hey all,
+
+This is a set of code and with test dataset for Machine Learning. We have developed 4 different models 
+1) KNN Model 
+2) Multiple Linear Regression
+3) Naive Bayes Classifier
+4) Support Vector Machine for Regression
+
+Each folder contains Reports, Python script and Dataset for that model which we used.  
+
+To run each of these models use one of the python IDE like Sypder, Jupiter etc. 
+
+NOTE: For SPyder and Jupiter you can download Anaconda Navigator from this link:
+https://www.anaconda.com/download/
+
+Before you launch Spyder, 
+
+Make sure that both script and python script are in same folder. 
+
+After launching the application you can see on upper right hand side the directory. Make sure that path is pointed towards that folder in which the python script and dataset are stored. 
+
+Then just run the script by pressing green symbol "RUN" on the top menubar. On right side you will see variable explorer in which you will see matrices that are formed and below that you can see the console in which you can see the results. 
+
+If the console is kind of full then please run the command "clear", and it will clear the window for you.
+
+
+Enjoy Machine Learning!!
